@@ -2,3 +2,5 @@ Database link fixed with some UI changes!
 
 Adopting Prisma in the next DB V
 
+Life can be something good, and somewhat bad. All you have got to do is to live it!!!
+
